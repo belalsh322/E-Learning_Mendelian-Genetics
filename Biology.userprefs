@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F5983A75-6E08-F9C0-C43E-40681D6E3CB6}|" StartupItem="Biology.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ArabicSupport\Scripts\SetArabicTextExample.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PunnettSquares.cs" Line="1" Column="1" />
+      <File FileName="Assets\MaterialUI\Scripts\Common\MaterialUIScaler.cs" Line="1" Column="1" />
+      <File FileName="Assets\ArabicSupport\Scripts\SetArabicTextExample.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Biology PreferredExecutionTarget="Unity.Editor" />
+</Properties>
