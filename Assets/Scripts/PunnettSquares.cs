@@ -89,15 +89,15 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsLower(firstGeneLetter) == true && System.Char.IsLower(secondGeneLetter) == false)
         {
             percentage.enabled = true;
-            percentage.text = ArabicFixer.Fix("الرجاء ادخال الجينات الصحيحية", false, false);
-            percentage.fontSize = 60;
+			percentage.text = "Please Enter the correct genetics.";
+			percentage.fontSize = 60;
             return;
         }
 
         if (System.Char.IsLower(thirdGeneLetter) == true && System.Char.IsLower(forthGeneLetter) == false)
         {
             percentage.enabled = true;
-            percentage.text = ArabicFixer.Fix("الرجاء ادخال الجينات الصحيحية", false, false);
+			percentage.text = "Please Enter the correct genetics.";
             percentage.fontSize = 60;
             return;
         }
@@ -142,7 +142,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsLower(firstGeneLetter) == true && System.Char.IsLower(thirdGeneLetter) == true)
         {
             output1.text = firstGeneLetter.ToString() + thirdGeneLetter.ToString();
-            output1Desc.text = ArabicFixer.Fix("متنحي", false, false);
+			output1Desc.text = "Recessive gene";
             unfullgenes++;
             output1Desc2.text = unfullLookGenes.text;
         }
@@ -150,7 +150,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsUpper(firstGeneLetter) == true && System.Char.IsUpper(thirdGeneLetter) == true)
         {
             output1.text = firstGeneLetter.ToString() + thirdGeneLetter.ToString();
-            output1Desc.text = ArabicFixer.Fix("سائد نقي", false, false);
+			output1Desc.text = "Complete dominant gene";
             fullgenes++;
             output1Desc2.text = fullLookGenes.text;
         }
@@ -158,7 +158,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsUpper(firstGeneLetter) == true && System.Char.IsLower(thirdGeneLetter) == true)
         {
             output1.text = firstGeneLetter.ToString() + thirdGeneLetter.ToString();
-            output1Desc.text = ArabicFixer.Fix("سائد غير نقي", false, false);
+			output1Desc.text = "Incomplete dominant gene";
             fullgenes++;
             output1Desc2.text = fullLookGenes.text;
         }
@@ -166,7 +166,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsLower(firstGeneLetter) == true && System.Char.IsUpper(thirdGeneLetter) == true)
         {
             output1.text = thirdGeneLetter.ToString() + firstGeneLetter.ToString();
-            output1Desc.text = ArabicFixer.Fix("سائد غير نقي", false, false);
+			output1Desc.text = "Incomplete dominant gene";
             fullgenes++;
             output1Desc2.text = fullLookGenes.text;
         }
@@ -174,7 +174,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsLower(secondGeneLetter) == true && System.Char.IsLower(thirdGeneLetter) == true)
         {
             output2.text = secondGeneLetter.ToString() + thirdGeneLetter.ToString();
-            output2Desc.text = ArabicFixer.Fix("متنحي", false, false);
+			output2Desc.text = "Incomplete dominant gene";
             unfullgenes++;
             output2Desc2.text = unfullLookGenes.text;
         }
@@ -182,7 +182,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsUpper(secondGeneLetter) == true && System.Char.IsUpper(thirdGeneLetter) == true)
         {
             output2.text = secondGeneLetter.ToString() + thirdGeneLetter.ToString();
-            output2Desc.text = ArabicFixer.Fix("سائد نقي", false, false);
+			output2Desc.text = "Complete dominant gene";
             fullgenes++;
             output2Desc2.text = fullLookGenes.text;
         }
@@ -190,7 +190,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsUpper(secondGeneLetter) == true && System.Char.IsLower(thirdGeneLetter) == true)
         {
             output2.text = secondGeneLetter.ToString() + thirdGeneLetter.ToString();
-            output2Desc.text = ArabicFixer.Fix("سائد غير نقي", false, false);
+			output2Desc.text = "Incomplete dominant gene";
             fullgenes++;
             output2Desc2.text = fullLookGenes.text;
         }
@@ -198,7 +198,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsLower(secondGeneLetter) == true && System.Char.IsUpper(thirdGeneLetter) == true)
         {
             output2.text = thirdGeneLetter.ToString() + secondGeneLetter.ToString();
-            output2Desc.text = ArabicFixer.Fix("سائد غير نقي", false, false); ;
+			output2Desc.text ="Incomplete dominant gene";
             fullgenes++;
             output2Desc2.text = fullLookGenes.text;
         }
@@ -206,7 +206,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsLower(secondGeneLetter) == true && System.Char.IsLower(forthGeneLetter) == true)
         {
             output3.text = secondGeneLetter.ToString() + forthGeneLetter.ToString();
-            output3Desc.text = ArabicFixer.Fix("متنحي", false, false);
+			output3Desc.text = "Recessive gene";
             unfullgenes++;
             output3Desc2.text = unfullLookGenes.text;
         }
@@ -214,7 +214,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsUpper(secondGeneLetter) == true && System.Char.IsUpper(forthGeneLetter) == true)
         {
             output3.text = secondGeneLetter.ToString() + forthGeneLetter.ToString();
-            output3Desc.text = ArabicFixer.Fix("سائد نقي", false, false);
+			output3Desc.text = "Complete dominant gene";
             fullgenes++;
             output3Desc2.text = fullLookGenes.text;
         }
@@ -222,7 +222,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsUpper(secondGeneLetter) == true && System.Char.IsLower(forthGeneLetter) == true)
         {
             output3.text = secondGeneLetter.ToString() + forthGeneLetter.ToString();
-            output3Desc.text = ArabicFixer.Fix("سائد غير نقي", false, false);
+			output3Desc.text ="Incomplete dominant gene";
             fullgenes++;
             output3Desc2.text = fullLookGenes.text;
         }
@@ -230,7 +230,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsLower(secondGeneLetter) == true && System.Char.IsUpper(forthGeneLetter) == true)
         {
             output3.text = forthGeneLetter.ToString() + secondGeneLetter.ToString();
-            output3Desc.text = ArabicFixer.Fix("سائد غير نقي", false, false);
+			output3Desc.text = "Incomplete dominant gene";
             fullgenes++;
             output3Desc2.text = fullLookGenes.text;
         }
@@ -238,7 +238,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsLower(firstGeneLetter) == true && System.Char.IsLower(forthGeneLetter) == true)
         {
             output4.text = firstGeneLetter.ToString() + forthGeneLetter.ToString();
-            output4Desc.text = ArabicFixer.Fix("متنحي", false, false);
+			output4Desc.text = "Recessive gene";
             unfullgenes++;
             output4Desc2.text = unfullLookGenes.text;
         }
@@ -246,7 +246,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsUpper(firstGeneLetter) == true && System.Char.IsUpper(forthGeneLetter) == true)
         {
             output4.text = firstGeneLetter.ToString() + forthGeneLetter.ToString();
-            output4Desc.text = ArabicFixer.Fix("سائد نقي", false, false); ;
+			output4Desc.text = "Complete dominant gene";
             fullgenes++;
             output4Desc2.text = fullLookGenes.text;
         }
@@ -254,7 +254,7 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsUpper(firstGeneLetter) == true && System.Char.IsLower(forthGeneLetter) == true)
         {
             output4.text = firstGeneLetter.ToString() + forthGeneLetter.ToString();
-            output4Desc.text = ArabicFixer.Fix("سائد غير نقي", false, false);
+			output4Desc.text = "Incomplete dominant gene";
             fullgenes++;
             output4Desc2.text = fullLookGenes.text;
         }
@@ -262,19 +262,19 @@ public class PunnettSquares : MonoBehaviour
         if (System.Char.IsLower(firstGeneLetter) == true && System.Char.IsUpper(forthGeneLetter) == true)
         {
             output4.text = forthGeneLetter.ToString() + firstGeneLetter.ToString();
-            output4Desc.text = ArabicFixer.Fix("سائد غير نقي", false, false);
+			output4Desc.text = "Incomplete dominant gene";
             fullgenes++;
             output4Desc2.text = fullLookGenes.text;
         }
 
         if (fullgenes == 4)
         {
-            percentage.text = "100% " + ArabicFixer.Fix("سائد", false, false);
+            percentage.text = "100% " + "Dominant";
             percentage.fontSize = 95;
         }
         else if (unfullgenes == 4)
         {
-            percentage.text = "100% " + ArabicFixer.Fix("متنحي", false, false);
+            percentage.text = "100% " + "Recessive";
             percentage.fontSize = 95;
         }
         else if (unfullgenes == 2 && fullgenes == 2)
@@ -288,10 +288,10 @@ public class PunnettSquares : MonoBehaviour
             percentage.fontSize = 95;
         }
 
-        output1Desc2.text = ArabicFixer.Fix(output1Desc2.text, false, false);
-        output2Desc2.text = ArabicFixer.Fix(output2Desc2.text, false, false);
-        output3Desc2.text = ArabicFixer.Fix(output3Desc2.text, false, false);
-        output4Desc2.text = ArabicFixer.Fix(output4Desc2.text, false, false);
+        //output1Desc2.text = ArabicFixer.Fix(output1Desc2.text, false, false);
+        //output2Desc2.text = ArabicFixer.Fix(output2Desc2.text, false, false);
+        //output3Desc2.text = ArabicFixer.Fix(output3Desc2.text, false, false);
+        //output4Desc2.text = ArabicFixer.Fix(output4Desc2.text, false, false);
 #endregion
 
      

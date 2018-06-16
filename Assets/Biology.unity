@@ -700,8 +700,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 121.05, y: 64.69999}
-  m_SizeDelta: {x: 115.29, y: 0}
+  m_AnchoredPosition: {x: 124.82499, y: 43}
+  m_SizeDelta: {x: 122.84, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!225 &149531883
 CanvasGroup:
@@ -738,8 +738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf202a8573b613548ab9631cceee47a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_HintText: "\uFE94\uFEF4\uFEA4\uFEE8\uFE98\uFEE4\uFEDF\uFE8D \uFE94\uFEF4\uFEE0\uFEDC\uFEB8\uFEDF\uFE8D
-    \uFEAF\uFEAE\uFEC4\uFEDF\uFE8D"
+  m_HintText: "Formal recessive patterns\r\n"
   m_FloatingHint: 1
   m_HasValidation: 0
   m_ValidateOnStart: 0
@@ -1044,8 +1043,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -14}
-  m_SizeDelta: {x: 0, y: -14}
+  m_AnchoredPosition: {x: 0, y: -22}
+  m_SizeDelta: {x: 0, y: -22}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &204567137
 MonoBehaviour:
@@ -1468,8 +1467,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -14}
-  m_SizeDelta: {x: 0, y: -14}
+  m_AnchoredPosition: {x: 0, y: -22}
+  m_SizeDelta: {x: 0, y: -22}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &338278623
 MonoBehaviour:
@@ -1588,8 +1587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf202a8573b613548ab9631cceee47a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_HintText: "\uFEAE\uFEDB\uFEAC\uFEE0\uFEDF \uFE94\uFEF4\uFEE8\uFEF4\uFEA0\uFEDF\uFE8D
-    \uFEAF\uFEAE\uFEC4\uFEDF\uFE8D"
+  m_HintText: "Genotypes of the male\r\n"
   m_FloatingHint: 1
   m_HasValidation: 0
   m_ValidateOnStart: 0
@@ -2131,8 +2129,8 @@ MonoBehaviour:
   m_ShadowsCanvasGroup: {fileID: 219707232}
   m_Interactable: 1
   m_ContentPadding: {x: 30, y: 18}
-  m_ContentSize: {x: 20.890936, y: 15.975422}
-  m_Size: {x: 50.890938, y: 33.97542}
+  m_ContentSize: {x: 75.17731, y: 14.184398}
+  m_Size: {x: 105.17731, y: 32.1844}
   m_FitWidthToContent: 1
   m_FitHeightToContent: 1
   m_IsCircularButton: 0
@@ -2545,8 +2543,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -14}
-  m_SizeDelta: {x: 0, y: -14}
+  m_AnchoredPosition: {x: 0, y: -22}
+  m_SizeDelta: {x: 0, y: -22}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &515701615
 MonoBehaviour:
@@ -2728,7 +2726,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ": \uFE95\uFE8E\uFE98\uFEF4\uFEE3\uFE8E\uFEA0\uFEDF\uFE8D"
+  m_Text: ': Gametes'
 --- !u!222 &588823714
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3282,8 +3280,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -14}
-  m_SizeDelta: {x: 0, y: -30.288786}
+  m_AnchoredPosition: {x: 0, y: -22}
+  m_SizeDelta: {x: 0, y: -38.765957}
   m_Pivot: {x: 0, y: 1}
 --- !u!225 &738561255
 CanvasGroup:
@@ -3328,8 +3326,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uFEAE\uFEDB\uFEAC\uFEE0\uFEDF \uFE94\uFEF4\uFEE8\uFEF4\uFEA0\uFEDF\uFE8D
-    \uFEAF\uFEAE\uFEC4\uFEDF\uFE8D"
+  m_Text: "Genotypes of the male\r\n"
 --- !u!222 &738561257
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3455,8 +3452,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -14}
-  m_SizeDelta: {x: 0, y: -30.288786}
+  m_AnchoredPosition: {x: 0, y: -22}
+  m_SizeDelta: {x: 0, y: -38.765957}
   m_Pivot: {x: 0, y: 1}
 --- !u!225 &746916645
 CanvasGroup:
@@ -3501,8 +3498,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uFE94\uFEF4\uFEA4\uFEE8\uFE98\uFEE4\uFEDF\uFE8D \uFE94\uFEF4\uFEE0\uFEDC\uFEB8\uFEDF\uFE8D
-    \uFEAF\uFEAE\uFEC4\uFEDF\uFE8D"
+  m_Text: "Formal recessive patterns\r\n"
 --- !u!222 &746916647
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3706,8 +3702,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -14}
-  m_SizeDelta: {x: 0, y: -30.288786}
+  m_AnchoredPosition: {x: 0, y: -22}
+  m_SizeDelta: {x: 0, y: -38.765957}
   m_Pivot: {x: 0, y: 1}
 --- !u!225 &820137248
 CanvasGroup:
@@ -3752,8 +3748,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uFEF2\uFE9C\uFEE7\uFEFC\uFEDF \uFE94\uFEF4\uFEE8\uFEF4\uFEA0\uFEDF\uFE8D
-    \uFEAF\uFEAE\uFEC4\uFEDF\uFE8D"
+  m_Text: "Genotypes of the Female\r\n"
 --- !u!222 &820137250
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4076,7 +4071,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 16.288786}
+  m_AnchoredPosition: {x: 0, y: 16.765957}
   m_SizeDelta: {x: 0, y: 1}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &868766047
@@ -4713,7 +4708,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 16.288786}
+  m_AnchoredPosition: {x: 0, y: 16.765957}
   m_SizeDelta: {x: 0, y: 1}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1198958270
@@ -4884,7 +4879,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uFEA2\uFEF4\uFED8\uFEE0\uFE97"
+  m_Text: Impregnation
 --- !u!222 &1265163552
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5366,94 +5361,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &1413699845
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 1413699846}
-  - component: {fileID: 1413699849}
-  - component: {fileID: 1413699848}
-  - component: {fileID: 1413699847}
-  m_Layer: 5
-  m_Name: Text (2)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1413699846
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1413699845}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
-  m_Children: []
-  m_Father: {fileID: 2005138493}
-  m_RootOrder: 17
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -256.45, y: -194}
-  m_SizeDelta: {x: 287.1, y: 40}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1413699847
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1413699845}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f2366643190704d439e8d753f836f45e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  text: "\u0627\u0634\u0631\u0627\u0641 \u0627\u0644\u0645\u0639\u0644\u0645 : \u062E\u0644\u064A\u0644
-    \u0627\u0644\u062E\u0637\u064A\u0628"
---- !u!114 &1413699848
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1413699845}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.8745098}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 12800000, guid: bc206a0f50ac0734da98677a91c8a7c4, type: 3}
-    m_FontSize: 20
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 40
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 0
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: ": \uFE95\uFE8E\uFE98\uFEF4\uFEE3\uFE8E\uFEA0\uFEDF\uFE8D"
---- !u!222 &1413699849
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1413699845}
 --- !u!1 &1413852451
 GameObject:
   m_ObjectHideFlags: 0
@@ -6333,8 +6240,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -14}
-  m_SizeDelta: {x: 0, y: -14}
+  m_AnchoredPosition: {x: 0, y: -22}
+  m_SizeDelta: {x: 0, y: -22}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1496657352
 MonoBehaviour:
@@ -6979,7 +6886,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 241.12, y: 64.7}
+  m_AnchoredPosition: {x: 257.43, y: 43.000008}
   m_SizeDelta: {x: 109.74, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!225 &1640189956
@@ -7017,8 +6924,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf202a8573b613548ab9631cceee47a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_HintText: "\uFE93\uFEAA\uFE8B\uFE8E\uFEB4\uFEDF\uFE8D \uFE94\uFEF4\uFEE0\uFEDC\uFEB8\uFEDF\uFE8D
-    \uFEAF\uFEAE\uFEC4\uFEDF\uFE8D"
+  m_HintText: "Formal patterns\r\n"
   m_FloatingHint: 1
   m_HasValidation: 0
   m_ValidateOnStart: 0
@@ -7514,7 +7420,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 16.288786}
+  m_AnchoredPosition: {x: 0, y: 16.765957}
   m_SizeDelta: {x: 0, y: 1}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1722791844
@@ -8864,7 +8770,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_MatchOrientationToScreen: 1
-  m_LastScaleFactor: 0.81375
+  m_LastScaleFactor: 0.705
   m_LastResolution: {x: 640, y: 480}
 --- !u!114 &2005138490
 MonoBehaviour:
@@ -8950,7 +8856,6 @@ RectTransform:
   - {fileID: 588823711}
   - {fileID: 1371635127}
   - {fileID: 1440740291}
-  - {fileID: 1413699846}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9267,7 +9172,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 16.288786}
+  m_AnchoredPosition: {x: 0, y: 16.765957}
   m_SizeDelta: {x: 0, y: 1}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &2063926044
@@ -9474,8 +9379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf202a8573b613548ab9631cceee47a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_HintText: "\uFEF2\uFE9C\uFEE7\uFEFC\uFEDF \uFE94\uFEF4\uFEE8\uFEF4\uFEA0\uFEDF\uFE8D
-    \uFEAF\uFEAE\uFEC4\uFEDF\uFE8D"
+  m_HintText: "Genotypes of the Female\r\n"
   m_FloatingHint: 1
   m_HasValidation: 0
   m_ValidateOnStart: 0
@@ -9798,8 +9702,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -14}
-  m_SizeDelta: {x: 0, y: -30.288786}
+  m_AnchoredPosition: {x: 0, y: -22}
+  m_SizeDelta: {x: 0, y: -38.765957}
   m_Pivot: {x: 0, y: 1}
 --- !u!225 &2118133778
 CanvasGroup:
@@ -9844,8 +9748,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uFE93\uFEAA\uFE8B\uFE8E\uFEB4\uFEDF\uFE8D \uFE94\uFEF4\uFEE0\uFEDC\uFEB8\uFEDF\uFE8D
-    \uFEAF\uFEAE\uFEC4\uFEDF\uFE8D"
+  m_Text: "Formal patterns\r\n"
 --- !u!222 &2118133780
 CanvasRenderer:
   m_ObjectHideFlags: 0
